@@ -1,0 +1,1 @@
+ReactDOM.render(<React.StrictMode><TicketShop /></React.StrictMode>, document.getElementById("root"))
